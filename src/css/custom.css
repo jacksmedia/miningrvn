@@ -11,32 +11,41 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #f0513a;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
-  --ifm-color-primary-darker: rgb(31, 165, 136);
-  --ifm-color-primary-darkest: rgb(26, 136, 112);
-  --ifm-color-primary-light: rgb(70, 203, 174);
-  --ifm-color-primary-lighter: rgb(102, 212, 189);
-  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-color-primary-dark: #C54330;
+  --ifm-color-primary-darker: #9B3425;
+  --ifm-color-primary-darkest: #70261B;
+  --ifm-color-primary-light: #F47B69;
+  --ifm-color-primary-lighter: #F58B7B;
+  --ifm-color-primary-lightest: #F8B1A7;
   --ifm-code-font-size: 95%;
 }
+/* override for infinima footer color;
+modified color based on $RVN branding #384182 */
+.footer--dark {
+  background-color: #0E1121;
+}
+
+/* assigns font for all app elements except Headlines & Buttons */
 * {
   font-family: 'Esteban', serif;
 }
 
-.docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.1);
-  display: block;
-  margin: 0 calc(-1 * var(--ifm-pre-padding));
-  padding: 0 var(--ifm-pre-padding);
-}
-
-h1,h2,h3,h4,h5,h6, .button {
+/* assigns font to Headlines & Buttons */
+h1,h2,h3,h4,h5,h6, .button, header * {
   font-family: 'Montserrat', sans-serif;
 }
 h1 { font-weight: 900; }
 h2 { font-weight: 500; }
 h3,h4 { font-weight: 300; }
 
+/* legible code comments are essential in docs;
+modified color based on $RVN branding #384182 */
+.docusaurus-highlight-code-line {
+  background-color: rgba(14, 17, 33, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
 html[data-theme='dark'] .docusaurus-highlight-code-line {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(14, 17, 33, 0.3);
 }

@@ -1,12 +1,12 @@
 ---
 slug: first-blog-post
-title: First Blog Post
+title: Mining Ravencoin
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
+  name: Jacks Media
+  title: Beginning at the Beginning
+  url: https://github.com/jacksmedia
+  image_url: https://github.com/jacksmedia.png
+tags: [ravencoin, docusaurus]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Use your old GPUs to print currency! Ravencoin ($RVN) is better Bitcoin, because it can store deeds & assets, not just transactions!
