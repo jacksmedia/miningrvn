@@ -4,32 +4,32 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Easy to Mine',
+    Svg: require('../../static/img/mining01.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Most graphics cards younger than 10 years can mine Ravencoin!
+        Check out our easy guide to get started minting your own $RVN.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Broad Utility',
+    Svg: require('../../static/img/whoa.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Ravencoin is great blockchain for artists & entrepreneurs and is 
+        robust and trusted enough to run the new Digital Euro coin.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: 'Basically, Better Bitcoin',
+    Svg: require('../../static/img/goldcoin.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Built from the same proven blockchain tech as Bitcoin but with
+        extra features to record assets, Ravencoin is the future.
       </>
     ),
   },

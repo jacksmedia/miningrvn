@@ -2,7 +2,7 @@
 slug: welcome
 title: Welcome
 authors: [jacksmedia]
-tags: [ravencoin, hello, docusaurus]
+tags: [ravencoin, hello]
 ---
 
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
