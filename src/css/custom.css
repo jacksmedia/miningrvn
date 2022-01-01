@@ -25,6 +25,11 @@ modified color based on $RVN branding #384182 */
   background-color: #0E1121;
 }
 
+/* imparts glaring, neon-like font effect on landing page Subtitle */
+.hero__subtitle {
+  color: #ffffff;
+  text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 15px #ffffff, 0 0 20px #F8B1A7, 0 0 30px #F8B1A7, 0 0 40px #F8B1A7, 0 0 55px #F8B1A7, 0 0 75px #F8B1A7;
+}
 /* assigns font for all app elements except Headlines & Buttons */
 * {
   font-family: 'Esteban', serif;

@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'jacksmedia', // Usually your GitHub org/user name.
   projectName: 'miningrvn', // Usually your repo name.
 
@@ -76,37 +76,37 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: '$RVN Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: '$RVN Founder\'s Twitter',
+                href: 'https://twitter.com/tronblack',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: '$RVN Whitepaper',
+                href: 'https://ravencoin.org/assets/documents/Ravencoin.pdf',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Our Twitter',
+                href: 'https://twitter.com/j4cksRvn',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Extra Content',
             items: [
               {
                 label: 'Blog',
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Jacks.Media',
+                href: 'https://jacks.media',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Jacks Media, LLC. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Jacks Media, LLC.`,
       },
       prism: {
         theme: lightCodeTheme,

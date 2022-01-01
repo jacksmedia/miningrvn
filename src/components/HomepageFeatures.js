@@ -9,17 +9,17 @@ const FeatureList = [
     description: (
       <>
         Most graphics cards younger than 10 years can mine Ravencoin!
-        Check out our easy guide to get started minting your own $RVN.
+        Check out our easy guide to get started mining your own $RVN.
       </>
     ),
   },
   {
-    title: 'Broad Utility',
-    Svg: require('../../static/img/whoa.svg').default,
+    title: 'Democratic Forever',
+    Svg: require('../../static/img/machine.svg').default,
     description: (
       <>
-        Ravencoin is great blockchain for artists & entrepreneurs and is 
-        robust and trusted enough to run the new Digital Euro coin.
+        Ravencoin is not centralized, and cannot be shut down. Unlike Bitcoin,
+        big ASIC miners can't outperform GPUs, so Ravencoin will always be massively distributed.
       </>
     ),
   },
@@ -29,7 +29,7 @@ const FeatureList = [
     description: (
       <>
         Built from the same proven blockchain tech as Bitcoin but with
-        extra features to record assets, Ravencoin is the future.
+        extra features to record assets & artwork, Ravencoin is the future.
       </>
     ),
   },

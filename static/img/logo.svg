@@ -1,1 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 205.3 338.8"><path fill="#384182" d="M89 274.9L0 338.8l56.5-260zm1.8-.6l54.2.7L58.6 79.8zm59.3-4.3l41.5-153.8L175.9 97zm-20-241.1l-68.3 46 99.8-32.3zm-8.6 0l-42.4 1.4L72.9 48z"/><path fill="#f79534" d="M172.9 91.1l-109.3-15 98.5-31zM147 33.3l6-16.3-31.5-13.7zm9.1-17.9l7.1 25.6 42-11.1z"/><path fill="#f0513a" d="M147.4 274L59.8 78 174 94zM126.8 28.9L72.8 50l-13 24zm-33.5-16L79.8 27.8l44.8-1.1zm23.6-11.6l-21.4 9.9 48.8 21.5zM141.3 0h-23l35.6 13.8zm13.3 18.3l-5.5 16.4 11 5.3z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="192px" viewBox="0 0 192 192" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="Copperplate" font-size="55" font-weight="normal" letter-spacing="-0.916666667" fill="#F79534">
+            <tspan x="3" y="106">RAVEN</tspan>
+        </text>
+        <filter x="-4.0%" y="-9.8%" width="108.0%" height="126.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-3" font-family="Copperplate" font-size="60" font-weight="normal" letter-spacing="-6.54545455" fill="#F79534">
+            <tspan x="0" y="53">MINING</tspan>
+        </text>
+        <filter x="-3.7%" y="-8.2%" width="109.0%" height="123.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <text id="text-5" font-family="Copperplate" font-size="70" font-weight="normal" letter-spacing="2" fill="#F79534">
+            <tspan x="2" y="167">COIN</tspan>
+        </text>
+        <filter x="-3.9%" y="-7.9%" width="107.9%" height="121.4%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ravicon">
+            <rect id="Rectangle" fill="#3B4586" x="0" y="0" width="192" height="192"></rect>
+            <g id="RAVEN" stroke="#F0513A">
+                <use fill="#F79534" fill-opacity="1" stroke-opacity="1" filter="url(#filter-2)" xlink:href="#text-1"></use>
+                <use fill="#F79534" fill-opacity="1" stroke-opacity="1" xlink:href="#text-1"></use>
+                <use xlink:href="#text-1"></use>
+            </g>
+            <g id="MINING" fill="#F79534" fill-opacity="1">
+                <use filter="url(#filter-4)" xlink:href="#text-3"></use>
+                <use xlink:href="#text-3"></use>
+            </g>
+            <g id="COIN" stroke="#F0513A">
+                <use fill="#F79534" fill-opacity="1" stroke-opacity="1" filter="url(#filter-6)" xlink:href="#text-5"></use>
+                <use fill="#F79534" fill-opacity="1" stroke-opacity="1" xlink:href="#text-5"></use>
+                <use xlink:href="#text-5"></use>
+            </g>
+        </g>
+    </g>
+</svg>

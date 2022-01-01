@@ -2,34 +2,30 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Let's build a money-making machine
 
-Let's discover **Docusaurus in less than 5 minutes**.
+You're smart and focused, and you're not scared of new hobbies. You're eager to grab a piece of this crypto action, right?
 
-## Getting Started
+## Why mine crypto???
 
-Get started by **creating a new site**.
+1. No more unused GPU power-- why are you letting your old gaming PC just sit there?
+2. Help secure a growing, global network
+3. Learn fundamentals of some revolutionary new tech 
+4. PASSIVE INCOME
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+If you've read anything about Ravencoin you know it is a more useful alternative to Bitcoin, in numerous ways. Our Blog explains this in depth.
 
-## Generate a new site
+:::tip
+Did you know Ravencoin is now the most profitable cryptocurrency on Earth to mine?? 😸
+:::tip
 
-Generate a new Docusaurus site using the **classic template**:
+Please read on to learn how your old PC or laptop can help make you some $RVN 24/7, day and night!
 
-```shell
-npm init docusaurus@latest my-website classic
-```
+You can get started mining Ravencoin **in about 10 minutes**.
 
-## Start your site
+## Can my machine mine Ravencoin?
+Likely. Just follow this quick guide and you'll find out very soon. 
 
-Run the development server:
 
-```shell
-cd my-website
 
-npx docusaurus start
-```
 
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
