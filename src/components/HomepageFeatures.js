@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Democratic Forever',
-    Svg: require('../../static/img/machine.svg').default,
+    Svg: require('../../static/img/nofactories.svg').default,
     description: (
       <>
         Ravencoin is not centralized, and cannot be shut down. Unlike Bitcoin,
