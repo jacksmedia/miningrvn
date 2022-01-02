@@ -13,7 +13,11 @@ Make your way to the **Device Manager**:
 Control Panel > All Items > System > Device Manager
 ````
 
-![](../../static/img/010.png)
+
+:::warning
+IMAGE MISSING
+:::warning
+
 ![](../../static/img/011.png)
 ![](../../static/img/005.png)
 

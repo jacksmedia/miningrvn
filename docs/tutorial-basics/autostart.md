@@ -10,7 +10,10 @@ Right click menu has a "Create Shortcut" option that helps us automate Windows a
 
 You'll soon find out! Just make a Shortcut to **nanominer.exe** for now.
 
-![](../../static/img/031.png)
+
+:::warning
+IMAGE MISSING
+:::warning
 
 
 ## 2. Place Miner Shortcut into 🪄Startup directory🪄

@@ -36,7 +36,11 @@ If this is your 1st time using Trust Wallet: write down your Key Words and save 
 
 > This is easy. You can join without any permission, because crypto is decentralized and DIY by nature! Nanopool will send your mining rig shares of work as soon as you ask for them, so just check out [www.nanopool.org](https://www.nanopool.org) for a quick tour of your new hobby's guildhall.
 
-![](../../static/img/021.png)
+
+:::warning
+IMAGE MISSING
+:::warning
+
 
 Under the Ravencoin subpage you can see the current power of the nanopool. Soon you'll be adding +1 to the 'Miners' and 'Workers' totals!! 
 
