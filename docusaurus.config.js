@@ -6,6 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  url: 'https://miningrvn.netlify.app',
+  baseUrl: '/',
   title: 'Mining Ravencoin',
   tagline: '$RVN is useful $BTC',
   url: 'https://miningrvn.netlify.app/',
