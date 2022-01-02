@@ -9,7 +9,7 @@ The signature "KAWPOW" algorithm that makes Ravencoin so democratic and strong r
 
 Grab the Windows x64 download. It can go right on the \Desktop.
 
-![](../../static/img/024.png)
+![](../../static/img/24.png)
 
 
 
