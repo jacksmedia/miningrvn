@@ -4,7 +4,7 @@
     <title>COIN LOGO gold</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="77.0039447%" y1="27.4440382%" x2="10.4610684%" y2="76.446281%" id="linearGradient-1">
+        <linearGradient x1="64.2830782%" y1="7.35513469%" x2="29.0868461%" y2="100%" id="linearGradient-1">
             <stop stop-color="#F0513A" offset="0%"></stop>
             <stop stop-color="#F79534" offset="26.0444931%"></stop>
             <stop stop-color="#EEEEEE" offset="100%"></stop>
@@ -71,7 +71,7 @@
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="COIN-LOGO-gold" transform="translate(1.000000, 1.000000)">
-            <ellipse id="coin-main-rim" stroke="#F0513A" fill="url(#linearGradient-1)" transform="translate(88.131945, 121.131944) rotate(90.000000) translate(-88.131945, -121.131944) " cx="88.1319446" cy="121.131944" rx="121.5" ry="88.5"></ellipse>
+            <ellipse id="coin-main-rim-2" stroke="#F0513A" fill="url(#linearGradient-1)" cx="88.1319446" cy="121.131944" rx="121.5" ry="88.5"></ellipse>
             <ellipse id="coin-main-inside" stroke="url(#linearGradient-3)" fill="url(#linearGradient-2)" transform="translate(87.500000, 121.000000) rotate(90.000000) translate(-87.500000, -121.000000) " cx="87.5" cy="121" rx="115" ry="83.5"></ellipse>
             <ellipse id="textwrapper" transform="translate(88.000000, 120.409091) rotate(90.000000) translate(-88.000000, -120.409091) " cx="88" cy="120.409091" rx="108.5" ry="78.9090909"></ellipse>
             <g id="rvn-logo" transform="translate(40.000000, 42.000000)"></g>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="318px" height="263px" viewBox="0 0 318 263" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="318px" height="139px" viewBox="0 0 318 139" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
-    <title>COIN LOGO</title>
+    <title>2 pickaxe emojis</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="77.0039447%" y1="27.4440382%" x2="10.4610684%" y2="76.446281%" id="linearGradient-1">
@@ -66,7 +66,7 @@
         </filter>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="2-pickaxe-emojis" transform="translate(0.000000, -28.000000)" fill="#F79534" font-family="AppleColorEmoji, Apple Color Emoji" font-size="200" font-weight="normal" letter-spacing="-3.33333333">
+        <g id="2-pickaxe-emojis" transform="translate(0.000000, -25.000000)" fill="#F79534" font-family="AppleColorEmoji, Apple Color Emoji" font-size="200" font-weight="normal" letter-spacing="-3.33333333">
             <text id="⛏">
                 <tspan x="0" y="200">⛏</tspan>
             </text>
@@ -74,7 +74,7 @@
                 <tspan x="63" y="200">⛏</tspan>
             </text>
         </g>
-        <g id="COIN-LOGO" transform="translate(72.000000, 14.000000)">
+        <g id="COIN-LOGO" transform="translate(72.000000, 17.000000)">
             <ellipse id="coin-main-rim" stroke="#384182" stroke-width="2" fill="url(#linearGradient-1)" transform="translate(88.131945, 121.131944) rotate(90.000000) translate(-88.131945, -121.131944) " cx="88.1319446" cy="121.131944" rx="122" ry="89"></ellipse>
             <ellipse id="coin-main-inside" fill="url(#linearGradient-2)" transform="translate(87.500000, 121.000000) rotate(90.000000) translate(-87.500000, -121.000000) " cx="87.5" cy="121" rx="115.5" ry="84"></ellipse>
             <g id="rvn-logo" transform="translate(40.000000, 42.000000)"></g>

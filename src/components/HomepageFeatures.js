@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: 'Easy to Mine',
-    Svg: require('../../static/img/mining01.svg').default,
+    Svg: require('../../static/img/feature1.svg').default,
     description: (
       <>
         Most graphics cards younger than 10 years can mine Ravencoin!
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Democratic Forever',
-    Svg: require('../../static/img/nofactories.svg').default,
+    Svg: require('../../static/img/feature2.svg').default,
     description: (
       <>
         Ravencoin is not centralized, and cannot be shut down. Unlike Bitcoin,
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Basically, Better Bitcoin',
-    Svg: require('../../static/img/goldcoin.svg').default,
+    Svg: require('../../static/img/feature3.svg').default,
     description: (
       <>
         Built from the same proven blockchain tech as Bitcoin but with

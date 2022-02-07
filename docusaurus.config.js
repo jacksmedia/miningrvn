@@ -40,10 +40,13 @@ const config = {
       }),
     ],
   ],
-
+  plugins: ['docusaurus-plugin-google-adsense'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      googleAdsense: {
+        dataAdClient: 'ca-pub-7577422854146272',
+      },
       navbar: {
         title: 'Mining RVN',
         logo: {
